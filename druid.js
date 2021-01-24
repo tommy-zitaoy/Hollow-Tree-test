@@ -49,8 +49,7 @@ class Druid extends Agent {
 						console.log("collide left");
 					}
 				}
-
-				//that.updateBB();
+				that.updateBB();
 			}
 		});
 	}
